@@ -19,5 +19,6 @@
         "WakaTime.vscode-wakatime"
       ]
     }
-  }
+  },
+  "postStartCommand": "npm i -g npm pnpm"
 }
