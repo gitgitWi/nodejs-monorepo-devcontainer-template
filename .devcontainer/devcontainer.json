@@ -20,5 +20,5 @@
       ]
     }
   },
-  "postStartCommand": "npm i -g npm pnpm"
+  "postStartCommand": "npm i -g npm pnpm && pnpm install"
 }
