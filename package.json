@@ -18,6 +18,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "format": "prettier --write ./ --config .prettierrc",
     "clean": "turbo run clean && rm -rf node_modules && rm -rf .pnpm-store",
     "clean:build": "turbo run clean:build",
     "preinstall": "npx only-allow pnpm",
