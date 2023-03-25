@@ -11,6 +11,7 @@
     "igorsbitnev.error-gutters",
     "wallabyjs.console-ninja",
     "naumovs.color-highlight",
-    "adpyke.codesnap"
+    "adpyke.codesnap",
+    "editorconfig.editorconfig"
   ]
 }
